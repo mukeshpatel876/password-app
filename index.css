@@ -1,0 +1,59 @@
+body{
+    width: 100%;
+    height: auto;
+    margin: 0rem;
+
+    text-align: center;
+}
+h1{
+    padding: 40px;
+    text-align: center;
+    color: burlywood;
+}
+#passwordDiv{
+    width: 10%;
+        height: 0vh;
+        
+        margin: 1rem;
+        padding: 2rem;
+        max-width: 1000px;
+
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 1rem
+}
+
+#NameDiv{
+    width: 10%;
+        height: 0vh;
+        
+        margin: 1rem;
+        padding: 2rem;
+        max-width: 1000px;
+
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 1rem;
+}
+#btnCheck{
+    background-color: #bffed4;
+    border: none;
+    color:black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+   
+    font-size: 16px;
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 0rem;
+    cursor: pointer;
+}
+#output{
+    margin-left: auto;
+    margin-right: auto;
+}
